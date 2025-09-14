@@ -1,7 +1,4 @@
 Hello world
-
-<<<<<<< HEAD
 this line for issue2
-=======
 this content for issue3
->>>>>>> issue3
+
